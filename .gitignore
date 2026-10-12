@@ -1,0 +1,5 @@
+.idea/
+__pycache__/
+*.pyc
+*.pkl
+phase2/phase2-GPT.md
